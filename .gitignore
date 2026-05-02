@@ -1,0 +1,10 @@
+/node_modules
+/.vscode
+
+/build
+
+# misc
+*.env
+.env.*
+firebase.js
+npm-debug.log*
