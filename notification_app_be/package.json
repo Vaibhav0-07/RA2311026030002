@@ -1,0 +1,12 @@
+{
+  "name": "notification-priority-inbox",
+  "version": "1.0.0",
+  "description": "Express service to fetch notifications and compute top priority inbox items.",
+  "main": "stage6_priority_inbox.js",
+  "scripts": {
+    "start": "node stage6_priority_inbox.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
